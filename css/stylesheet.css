@@ -1,0 +1,41 @@
+#header {
+    width: 100%;
+    height: 140px;
+}
+
+#logo {
+    margin-top: 32px;
+    margin-left: 30px;
+    float: left;
+    position: relative;
+    height: 70px;
+    font-size: 18px;
+}
+
+#cart_summary {
+    margin-top: 32px;
+    float: right;
+    position: relative;
+    height: 70px;
+    width: 380px;
+    font-size: 18px;
+    text-align: right;
+    line-height: 2.0em;
+}
+
+#search {
+    margin-top: 50px;
+    margin-left: 90px;
+    float: left;
+    position: relative;
+    height: 30px;
+}
+
+#add_to_cart_box {
+    width: 300px;
+    float: right;
+    position: relative;
+    left: -36px;
+    padding: 12px;
+    background-color: #d5d5d5;
+}
